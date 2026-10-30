@@ -7,5 +7,6 @@ int main()
 	{
 	cout<<a[i];
 	}
+	cout<<"Array Printed";
 	return 0;
 }
